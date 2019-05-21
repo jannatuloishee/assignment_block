@@ -1,0 +1,52 @@
+body{
+
+margin: 0;
+}
+.container{
+    background-color: aliceblue;
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-1-3{
+    height: 150px;
+    width: 33.33%;
+    float: left;
+}
+.col-1-1{
+    height: 150px;
+    width: 100%;
+    background: aliceblue;
+    float: left;
+}
+.col-1-2{
+    height: 150px;
+    width: 50%;
+    background: antiquewhite;
+    float: left;
+}
+.col-8-10{
+    height: 150px;
+    width: 80%;
+    background: cadetblue;
+    float: left;
+}
+.col-1-10{
+    height: 150px;
+    width: 10%;
+    background: blueviolet;
+    float: left;
+}
+.blue{
+    background: cornflowerblue;
+}
+.yellow{
+    background: yellow;
+}
+.green{
+    background: turquoise;
+}
+.white{
+    background: antiquewhite;
+}
